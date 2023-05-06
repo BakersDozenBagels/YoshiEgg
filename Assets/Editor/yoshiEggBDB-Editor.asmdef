@@ -1,0 +1,10 @@
+{
+  "name": "yoshiEggBDB-Editor",
+  "references": [
+    "yoshiEggBDB"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
